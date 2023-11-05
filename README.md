@@ -13,7 +13,7 @@
   <br/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshops&theme=algolia" alt="rishikeshops" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunMnn&theme=algolia" alt="ArjunMnn" /></p>
 
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
@@ -89,22 +89,22 @@
  <details>
   <summary><b>💻 GitHub Profile Stats</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunMnn&theme=2077" alt="rishikeshops" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArjunMnn&theme=2077" alt="ArjunMnn" /></p>
 
 </details>
 
   <details>
   <summary><b>📈 My Top Languages</b></summary>
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjunMnn&theme=aura" alt="rishikeshops" 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunMnn&theme=aura" alt="rishikeshops" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArjunMnn&theme=aura" alt="ArjunMnn" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArjunMnn&theme=aura" alt="ArjunMnn" /></p>
 </details> 
 
   </details>
     <details>
   <summary><b>📈 My Contributions</b></summary>
    
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunMnn&theme=great_gatsby" alt="rishikeshops" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArjunMnn&theme=great_gatsby" alt="ArjunMnn" /></p>
  
 
 </details>
@@ -113,7 +113,7 @@
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
    
-## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
+## 📫 How to reach me? <img align="center" src="https://github.com/ArjunMnn/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/arjunmenon-devops/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Hashnode](https://arjunmenon.hashnode.dev/) 🌐 <br>
