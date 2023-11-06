@@ -109,7 +109,7 @@
 
 </details>
 
- I thoroughly enjoy connecting with diverse individuals, so please feel free to say hello—I'd be delighted to get to know you better!
+<!-- I thoroughly enjoy connecting with diverse individuals, so please feel free to say hello—I'd be delighted to get to know you better! -->
    
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so please feel free to say hello—<b>I'd be delighted to get to know you better!</b> 😊</em>
    
